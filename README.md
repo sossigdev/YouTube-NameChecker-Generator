@@ -1,6 +1,6 @@
 # YouTube Username Checker & Generator - sossigdev
 With this you can: Generate random usernames, check the status (availability). The main purpose of this was to be able to find short usernames.
-With this program, you will be able to create thousands of generated passwords and check their status.
+With this program, you will be able to create thousands of generated usernames and check their status.
 
 
 # How To Install & Use
