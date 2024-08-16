@@ -1,0 +1,13 @@
+Modules:
+- requests
+- random
+- bs4
+- lxml
+- colorama
+- keyboard
+
+How To Install:
+
+1. Open CMD As Administrator
+2. In The Terminal, Write 'pip install moduleName', Where moduleName Is The Name Of The Module
+3. Reopen The Program And Try To Run It Again!
